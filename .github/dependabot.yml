@@ -1,0 +1,9 @@
+version: 2
+updates:
+  - package-ecosystem: "maven"
+    directory: "/"
+    schedule:
+      interval: "weekly" # Options: "daily", "weekly", "monthly"
+    commit-message:
+      prefix: "dependencies"
+    open-pull-requests-limit: 10
