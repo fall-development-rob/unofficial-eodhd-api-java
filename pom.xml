@@ -13,7 +13,7 @@
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
     <jackson.version>2.13.3</jackson.version>
-    <okhttp.version>4.9.3</okhttp.version>
+    <okhttp.version>4.12.0</okhttp.version>
     <junit.version>5.8.2</junit.version>
     <slf4j.version>1.7.32</slf4j.version>
   </properties>
